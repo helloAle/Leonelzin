@@ -110,7 +110,7 @@
  <div align="center">
  <h3> Snake Game 🐍 </h3>
  
- ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Leonelzin/Leonelzin/blob/output/github-contribution-grid-snake.svg)
  
  ##
  <h3> Meu passado é como o vento, esta sempre ao meu lado. 🌪️
